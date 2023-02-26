@@ -14,10 +14,7 @@ Hello, let me introduce myself here :
 <br>
 <a align="center" href="https://github.com/Y4zidd/">
 
-![ Bremana Github Stats ](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Y4zidd)
 
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/hoc081098/hoc081098/output/github-contribution-grid-snake.svg)
 
 </a>
 
