@@ -14,7 +14,8 @@ Hello, let me introduce myself here :
 <br>
 <a align="center" href="https://github.com/Y4zidd/">
 
-
+<p align="center">
+  <img src="Y4zidd/emu.jg">
 
 </a>
 
