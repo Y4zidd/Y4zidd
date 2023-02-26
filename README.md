@@ -1,16 +1,32 @@
-### Hi there 👋
+# Hi there, I`m Y4zidd 👋
 
-<!--
-**Y4zidd/Y4zidd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, let me introduce myself here :
+- My Name is yazid 
+- I'm in grade 12 high school
+- My hobby Ricing (BerBerBer)
+-  I'm currently studying `Python` 🐍  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
+ </p>
+<br>
+<a align="center" href="https://github.com/Y4zidd/">
+
+![ Bremana Github Stats ](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Y4zidd)
+
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/hoc081098/hoc081098/output/github-contribution-grid-snake.svg)
+
+</a>
+
+<br>
+
+</p>
+
+<p align="center">
+
+<a href="https://open.spotify.com/album/3pepTeuEGPpmGF3oOwboo0?si=DSnDVbgSQ4uH8lAHEhUEQQ?si=yb1PaPVnRgiTYedy8r6i_g&utm_source=copy-link&context=spotify%3Aplaylist%3A37i9dQZF1EIVoBTSiHHsdx&dl_branch=1" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+
+</p>
