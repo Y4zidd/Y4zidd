@@ -15,7 +15,12 @@ Hello, let me introduce myself here :
 <a align="center" href="https://github.com/Y4zidd/">
 
 <p align="center">
-  <img src="Y4zidd/emu.jg">
+  <img src="https://github.com/Y4zidd/Y4zidd/blob/main/emu.jpg">
+  </p>
+  
+<p align="center">
+  WonderHoyy!!!!
+  </p>
 
 </a>
 
