@@ -2,31 +2,8 @@
 
 Hello, let me introduce myself here :
 - My Name is yazid 
-- I'm in grade 12 high school
-- My hobby Ricing (BerBerBer)
--  I'm currently studying `Python` 🐍  
-
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" />
-  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
- </p>
-<br>
-<a align="center" href="https://github.com/Y4zidd/">
-
-<p align="center">
-  <img src="https://github.com/Y4zidd/Y4zidd/blob/main/emu.jpg">
-  </p>
-  
-<p align="center">
-  WonderHoyy!!!!
-  </p>
-
-</a>
-
-<br>
-
-</p>
+- I'm in grade 13 high school
+- My hobby Random
 
 <p align="center">
 
